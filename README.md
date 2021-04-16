@@ -22,11 +22,10 @@ Please find below selected languages, libraries, and tools which I am proficient
 
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer noopener"><img align="center" src="https://img.shields.io/badge/Language-R-276DC3?style=for-the-badge&logo=r" alt="ayushnoori"/></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer noopener"><img align="center" src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python" alt="ayushnoori"/></a> <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer noopener"><img align="center" src="https://img.shields.io/badge/Language-Java-007396?style=for-the-badge&logo=java" alt="ayushnoori"/></a>
 
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer noopener"><img align="center" src="https://img.shields.io/badge/Library-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch" alt="ayushnoori"/></a> <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer noopener"><img align="center" src="https://img.shields.io/badge/Library-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow" alt="ayushnoori"/></a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer noopener"><img align="center" src="https://img.shields.io/badge/Library-Django-092E20?style=for-the-badge&logo=django" alt="ayushnoori"/></a>  
+
 <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer noopener"><img align="center" src="https://img.shields.io/badge/Language-HTML5-E34F26?style=for-the-badge&logo=html5" alt="ayushnoori"/></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer noopener"><img align="center" src="https://img.shields.io/badge/Language-CSS3-1572B6?style=for-the-badge&logo=css3" alt="ayushnoori"/></a>
 
-
-
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer noopener"><img align="center" src="https://img.shields.io/badge/Library-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch" alt="ayushnoori"/></a> <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer noopener"><img align="center" src="https://img.shields.io/badge/Library-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow" alt="ayushnoori"/></a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer noopener"><img align="center" src="https://img.shields.io/badge/Library-Django-092E20?style=for-the-badge&logo=django" alt="ayushnoori"/></a>  
 
 </p>
 
