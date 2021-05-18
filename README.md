@@ -2,7 +2,7 @@
 
 <h2 align="left" style="padding-top:20px">About Me</h3>
 
-Hi! 👋 Thank you for visiting my profile. I am a student researcher investigating neurodegeneration with demonstrated success designing machine learning solutions and bioinformatics pipelines for multidimensional challenges.
+Hi! 👋 Thank you for visiting my profile. I am a student researcher investigating neurodegeneration with demonstrated success designing machine learning solutions and bioinformatics pipelines for multidimensional challenges. To learn more, please visit [my website](https://www.ayushnoori.com).
 
 🎒 **Education:** [Phillips Exeter Academy](https://www.exeter.edu/) and [Harvard College](https://college.harvard.edu/)
 
