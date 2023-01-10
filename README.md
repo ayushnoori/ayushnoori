@@ -2,7 +2,7 @@
 
 <h2 align="left" style="padding-top:20px">About Me</h3>
 
-Hi! 👋 Thank you for visiting my profile. I am a student researcher investigating neurodegeneration with demonstrated success designing machine learning solutions and bioinformatics pipelines for multidimensional challenges. To learn more, please visit [my website](https://www.ayushnoori.com).
+Hi! 👋 Thank you for visiting my profile. I am a sophomore at Harvard College studying Computer Science and Neuroscience. Drawing inspiration from my own family’s experience with neurodegeneration, I research at the intersection of neuroscience and artificial intelligence – including computer vision, natural language processing, and graph representation learning – to decipher the brain. My mission is to design computational tools that enable novel insights into the nervous system to improve human neurological health across the lifespan. To learn more, please visit [my website](https://www.ayushnoori.com).
 
 🎒 **Education:** [Phillips Exeter Academy](https://www.exeter.edu/) and [Harvard College](https://college.harvard.edu/)
 
