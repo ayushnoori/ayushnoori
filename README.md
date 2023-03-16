@@ -6,7 +6,10 @@ Hi! 👋 Thank you for visiting my profile. I am a sophomore at Harvard College 
 
 🎒 **Education:** [Phillips Exeter Academy](https://www.exeter.edu/) and [Harvard College](https://college.harvard.edu/)
 
-🏥 **Work:** Researcher at [MassGeneral Institute for Neurodegenerative Disease](https://www.massgeneral.org/neurology/mind/)
+🏥 **Work:** Student resesarcher in the the following laboratories:
+* [Marinka Zitnik Lab](https://zitniklab.hms.harvard.edu/), [Department of Biomedical Informatics](https://dbmi.hms.harvard.edu/), Harvard Medical School
+* [George Church Lab](https://arep.med.harvard.edu/), [Wyss Institute for Biologically Inspired Engineering](https://wyss.harvard.edu/)
+* [MIND Data Science Lab](https://www.massgeneral.org/neurology/research/mind-data-science-lab), [MassGeneral Institute for Neurodegenerative Disease](https://www.massgeneral.org/neurology/mind/)
 
 📕 **Publications:** [ResearchGate Profile](https://www.researchgate.net/profile/Ayush-Noori/research)
 
