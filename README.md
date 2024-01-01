@@ -1,5 +1,3 @@
-<h1 align="center">Ayush Noori</h1>
-
 <h2 align="left" style="padding-top:20px">About Me</h3>
 
 Hi! 👋 Thank you for visiting my profile. Inspired by personal experiences with neurological disease, I research the interface of neuroscience and AI – including graph representation learning, large language models, and multimodal AI – to better understand the human brain. My mission is to innovate AI-enabled methods to discover novel diagnostics and therapeutics for neurological disease and other challenging medical conditions. To learn more, please visit [my website](https://www.ayushnoori.com).
