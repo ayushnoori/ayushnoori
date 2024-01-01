@@ -1,8 +1,8 @@
-<h2 align="left" style="padding-top:20px">About Me</h3>
+<h2 align="left" style="padding-top:20px">About Me 👋🏽</h3>
 
-Hi! 👋 Thank you for visiting my profile. Inspired by personal experiences with neurological disease, I research the interface of neuroscience and AI – including graph representation learning, large language models, and multimodal AI – to better understand the human brain. My mission is to innovate AI-enabled methods to discover novel diagnostics and therapeutics for neurological disease and other challenging medical conditions. To learn more, please visit [my website](https://www.ayushnoori.com).
+Hi! Thank you for visiting my profile. Inspired by personal experiences with neurological disease, I research the interface of neuroscience and AI – including graph representation learning, large language models, and multimodal AI – to better understand the human brain. My mission is to innovate AI-enabled methods to discover novel diagnostics and therapeutics for neurological disease and other challenging medical conditions. To learn more, please visit [my website](https://www.ayushnoori.com).
 
-<h2 align="left" style="padding-top:20px">Languages and Libraries</h3>
+<h2 align="left" style="padding-top:20px">Languages and Libraries 👨🏽‍💻</h3>
 
 Please find below selected languages, libraries, and tools which I have experience in.
 
@@ -16,7 +16,7 @@ Please find below selected languages, libraries, and tools which I have experien
 
 </p>
 
-<h2 align="left" style="padding-top:20px">Contact</h3>
+<h2 align="left" style="padding-top:20px">Contact ✉️</h3>
 
 Want to get in touch? Please feel free to [email me](mailto:anoori@college.harvard.edu), or reach out via one of the channels below:
 
